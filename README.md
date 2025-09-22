@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Yadav</h1>
-<h3 align="center">👋 Hi, I’m Ajay Yadav 💻 MERN Stack Developer | Frontend Enthusiast | Problem Solver I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js. Passionate about clean code, responsive UI, and scalable solutions. 🚀 Experienced with React, Tailwind CSS, Next.js, and APIs 🛠️ Skilled in creating dynamic frontend interfaces and RESTful backend services 📂 Working on projects like online shopping platforms, dashboards, and drawing canvas apps 🌱 Currently exploring AI integrations and advanced JavaScript concepts ⚡ Loves sketching, cricket, and problem-solving outside of coding 📫 Let’s connect: [https://www.linkedin.com/in/ajay-yadav-999b691ab/Ay9771476@gmail.com]</h3>
+<h3 align="center">👋 Hi, I’m Ajay Yadav 💻 MERN Stack Developer | Frontend Enthusiast | Problem Solver I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay23407&label=Profile%20views&color=0e75b6&style=flat" alt="ajay23407" /> </p>
 
