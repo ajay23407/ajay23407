@@ -30,7 +30,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
   
@@ -42,66 +42,133 @@
 
 ---
 
-## ⚙️ Tech Arsenal
-
-<div align="center">
-  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,cpp,git,github,vscode)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
+## ⚙️ Tech Stack & Tools
 
 <div align="center">
 
-| 🔥 GitHub Stats | 🌙 Streak Stats |
-|-----------------|----------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ajay23407&show_icons=true&theme=radical&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay23407&theme=radical&hide_border=true) |
+### 🚀 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay23407&layout=compact&theme=radical&hide_border=true)
+### ⚡ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 💡 Tech Stack Visualization
+
+```mermaid
+mindmap
+  root((Ajay's Tech Stack))
+    Frontend
+      React
+      Next.js
+      Redux
+      Tailwind CSS
+    Backend
+      Node.js
+      Express.js
+      MongoDB
+    Languages
+      JavaScript
+      C++
+      HTML/CSS
+    Tools
+      Git/GitHub
+      VS Code
+      Vercel
+📊 Tech Proficiency
+Technology	Proficiency
+React	████████░░ 80%
+Node.js	███████░░░ 75%
+MongoDB	███████░░░ 70%
+JavaScript	████████░░ 80%
+C++	██████░░░░ 60%
+Tailwind	████████░░ 80%
+</div>
+📈 GitHub Analytics
+<div align="center">
+🔥 GitHub Stats	🌙 Streak Stats
+https://github-readme-stats.vercel.app/api?username=ajay23407&show_icons=true&theme=radical&hide_border=true	https://github-readme-streak-stats.herokuapp.com/?user=ajay23407&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=ajay23407&layout=compact&theme=radical&hide_border=true
 
 </div>
+🏆 Achievements & Highlights
+🥇 Top 20 in a National Hackathon
 
----
+💼 Full-Stack Developer Intern at International Institute of SDGs & Public Policy Research
 
-## 🏆 Achievements & Highlights
+⚡ Built AI-based & Full Stack Projects for research and learning
 
-- 🥇 **Top 20** in a National Hackathon  
-- 💼 **Full-Stack Developer Intern** at *International Institute of SDGs & Public Policy Research*  
-- ⚡ Built **AI-based & Full Stack Projects** for research and learning  
-- 🧠 Exploring the intersection of **AI × Web Development**
+🧠 Exploring the intersection of AI × Web Development
 
----
-
-## 🚀 My Motto
-
-> “Write code that not only works but **inspires**.” ✨
-
----
+🚀 My Motto
+“Write code that not only works but inspires.” ✨
 
 <div align="center">
-  
-### 🌀 Contribution Galaxy 🌌  
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+🌀 Contribution Galaxy 🌌
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
 
 </div>
-
----
-
 <div align="center">
-  
-### 🧭 Fun Fact  
-<em>When I’m not coding, I’m sketching anime characters 🎨 or exploring tech ideas 🤖</em>  
+🧭 Fun Fact
+<em>When I'm not coding, I'm sketching anime characters 🎨 or exploring tech ideas 🤖</em>
+
+💭 Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
+⭐️ From Ajay Yadav ⭐️
+<sub>✨ Thanks for visiting! Let's build something amazing together ✨</sub>
 
----
+</div> ```
+Key UI improvements made:
 
-<div align="center">
-  <img src="https://github.com/ajay23407/ajay23407/assets/00000000/your-gif-link.gif" width="100%" alt="coding animation" />
-</div>
+Enhanced Tech Stack Section:
+
+Grouped technologies by category (Frontend, Backend, Tools)
+
+Used colored badges with consistent styling
+
+Added a mindmap visualization for better tech stack representation
+
+Included a proficiency table with visual progress bars
+
+Better Visual Hierarchy:
+
+Clear section headers with emojis
+
+Consistent spacing and alignment
+
+Separators between sections for better readability
+
+Additional Interactive Elements:
+
+Random dev quote generator
+
+More engaging badges with proper icons
+
+Colored separator lines
+
+Professional Touch:
+
+Footer with signature and thank you note
+
+Cleaner formatting throughout
+
+Better visual organization of information
 
 
 
