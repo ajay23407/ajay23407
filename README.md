@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 🪄 Ajay Yadav  
+#  Ajay Yadav  
 
 ### 💻 MERN Stack Developer | 🧠 AI & Data Science | 🎨 Creative Coder
 
