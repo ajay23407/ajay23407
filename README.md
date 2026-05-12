@@ -139,36 +139,7 @@ export default ajay;
 
 <div align="center">
 
-### 🔥 Project 1 — AI-Powered SaaS Dashboard
-
-</div>
-
-```
-📦 fullstack-ai-dashboard/
-├── 🎨 frontend/          → Next.js 14 + TypeScript + Tailwind CSS
-│   ├── app/              → App Router with Server Components
-│   ├── components/       → Reusable UI component library
-│   └── hooks/            → Custom React hooks (useSWR, useAuth)
-├── ⚙️  backend/           → Node.js + Express.js REST API
-│   ├── controllers/      → Business logic layer
-│   ├── middleware/        → JWT auth, rate limiting, error handling
-│   ├── models/           → Mongoose ODM schemas
-│   └── routes/           → RESTful API endpoints
-├── 🗄️  database/          → MongoDB Atlas (production)
-└── 🚀 deployment/        → Vercel (FE) + Render (BE) + GitHub Actions CI/CD
-```
-
-**Key Engineering Decisions:**
-- 🔐 **JWT + Refresh Token** rotation pattern for secure session management
-- 📊 **MongoDB Aggregation Pipelines** for complex analytics queries
-- ⚡ **React Server Components** to reduce client bundle size by 60%
-- 🌐 **OpenAI API integration** for AI-assisted content generation
-
----
-
-<div align="center">
-
-### 🛒 Project 2 — E-Commerce Platform (Production Architecture)
+### 🛒 Project 1 — E-Commerce Platform (Production Architecture)
 
 </div>
 
@@ -188,7 +159,7 @@ export default ajay;
 
 <div align="center">
 
-### 🤖 Project 3 — Real-Time Chat App with AI
+### 🤖 Project 2 — CollabCode with Real-Time Chat App 
 
 </div>
 
@@ -197,8 +168,8 @@ export default ajay;
 ├── Socket.io          → Real-time bidirectional communication
 ├── Node.js + Express  → WebSocket server + REST APIs
 ├── MongoDB            → Message persistence + user sessions
-├── React + Zustand    → Lightweight reactive state management
-├── OpenAI API         → AI chatbot integration within rooms
+├── React              → Lightweight reactive state management
+├── judge0 API         → AI chatbot integration within rooms
 └── JWT Auth           → Secure room access & user sessions
 ```
 
