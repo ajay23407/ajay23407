@@ -1,190 +1,347 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ajay%20Yadav&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Creative%20Coder&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a0533,60:0d1b2a,100:0a0a1a&height=220&section=header&text=Ajay%20Yadav&fontSize=80&fontColor=e2d9f3&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20AI-Powered%20Applications&descAlignY=60&descSize=17&descColor=9d7ec9" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Modern+Web+Experiences;⚡+MERN+Stack+%7C+Next.js+%7C+AI+Integration;🎯+Turning+Ideas+into+Interactive+Reality;✨+Learning+%26+Growing+Every+Single+Day!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=9D7EC9&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=🏗️+Architecting+Scalable+Full+Stack+Systems;⚡+React+%2B+Next.js+%2B+Node.js+%2B+MongoDB;🤖+Building+AI-Integrated+Web+Applications;🚀+Shipping+Production-Grade+Code+Daily;🔐+REST+APIs+%7C+Auth+%7C+Cloud+%7C+CI%2FCD" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay23407&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ajay23407?style=for-the-badge&color=5b21b6&labelColor=1e1b4b&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/ajay23407?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=star&logoColor=white" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ajay23407&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/ajay23407?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=5b21b6" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Actively%20Looking-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-f59e0b?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=3&section=header" />
+## 🧠 &nbsp;Who Am I — The Developer Edition
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="developer gif"/>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+```typescript
+// src/developer/ajay.ts
 
-```ts
-const ajay = {
-  role    : "Full Stack Developer",
-  stack   : ["React", "Next.js", "Node.js", "MongoDB"],
-  learning: ["Advanced Next.js", "Express.js", "AI Integration"],
-  passion : "Clean UI/UX & Elegant Code Architecture",
-  goal    : "Build products that make people's lives easier",
-  funFact : "Sketches anime when not pushing commits 🎨"
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  stack: TechStack;
+  currentlyBuilding: string;
+  openToWork: boolean;
+}
+
+const ajay: Developer = {
+  name: "Ajay Yadav",
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
+
+  stack: {
+    frontend:  ["React", "Next.js 14", "TypeScript", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
+    database:  ["MongoDB", "Mongoose ODM", "Redis (learning)"],
+    devops:    ["Git", "GitHub Actions", "Vercel", "Render"],
+    ai:        ["OpenAI API", "LangChain basics", "Prompt Engineering"],
+  },
+
+  currentlyBuilding: "AI-powered SaaS apps with Next.js App Router",
+  openToWork: true, // ← Hire me!
 };
+
+export default ajay;
 ```
-
-<br/>
-
-- 🔭 &nbsp; Currently deep-diving into **Next.js** & **Express.js**
-- 🧩 &nbsp; Experienced in **React · Node.js · MongoDB · Tailwind CSS**
-- 🤖 &nbsp; Exploring the intersection of **AI × Web Development**
-- 💬 &nbsp; I love solving problems with **elegant, efficient code**
-- 🎯 &nbsp; Goal: Build products that genuinely **improve people's lives**
-- 📨 &nbsp; Reach me at: **[Ay9771476@gmail.com](mailto:Ay9771476@gmail.com)**
 
 <br clear="right"/>
 
----
-
-## 🤝 &nbsp;Let's Connect
-
 <div align="center">
 
-<a href="https://linkedin.com/in/ajay-yadav-999b691ab">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:Ay9771476@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ajay23407">
-  <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+| 🔭 Currently | Deep-diving into **Next.js App Router**, **tRPC**, & **Server Actions** |
+|:---:|:---|
+| 🏗️ Architecture | **MVC · RESTful APIs · Component-Driven Design · JAMstack** |
+| 🤖 AI Focus | Building **LLM-integrated apps** — chatbots, AI assistants, smart search |
+| 🔐 Security | **JWT · OAuth 2.0 · bcrypt · HTTPS · Input validation** |
+| 📦 Deployment | **CI/CD pipelines** on Vercel & Render with GitHub Actions |
+| 📫 Contact | **[Ay9771476@gmail.com](mailto:Ay9771476@gmail.com)** |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&text=⚙️%20Tech%20Arsenal&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
-
-## ⚙️ &nbsp;Tech Arsenal
+## 🌐 &nbsp;Connect With Me
 
 <div align="center">
 
-### 🎨 &nbsp;Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark&perline=8" />
-
-<br/>
-
-### ⚙️ &nbsp;Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=8" />
-
-<br/>
-
-### 🧠 &nbsp;Languages & AI
-<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python&theme=dark&perline=8" />
-
-<br/>
-
-### 🛠 &nbsp;Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman&theme=dark&perline=8" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-yadav-999b691ab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Ay9771476-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ay9771476@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ajay23407-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay23407)
+[![Resume](https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📈 &nbsp;GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:0d1b2a&height=100&section=header&text=⚙️%20Full%20Stack%20Tech%20Arsenal&fontSize=32&fontColor=e2d9f3&animation=twinkling&fontAlignY=65" />
+
+## ⚙️ &nbsp;Full Stack Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay23407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay23407&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" />
+### 🎨 &nbsp;Frontend — What Users See
+
+| Technology | Proficiency | Use Case |
+|:---:|:---:|:---|
+| ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ⭐⭐⭐⭐⭐ | SPA, Dashboards, Component Libraries |
+| ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ⭐⭐⭐⭐ | SSR, SSG, App Router, Full-Stack Apps |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | Type-safe codebases, large-scale apps |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ⭐⭐⭐⭐⭐ | Rapid UI development, design systems |
+| ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white) | ⭐⭐⭐⭐ | Global state, complex data flows |
+
+<br/>
+
+### ⚙️ &nbsp;Backend — What Powers It
+
+| Technology | Proficiency | Use Case |
+|:---:|:---:|:---|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ⭐⭐⭐⭐⭐ | Server runtime, async I/O, APIs |
+| ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) | ⭐⭐⭐⭐⭐ | REST APIs, middleware, routing |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ⭐⭐⭐⭐⭐ | NoSQL, schema design, aggregation |
+| ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | ⭐⭐⭐⭐ | Stateless auth, refresh tokens |
+| ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) | ⭐⭐⭐⭐⭐ | CRUD, pagination, filtering |
+
+<br/>
+
+### 🛠 &nbsp;Tools, DevOps & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,linux,docker&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay23407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12" />
+### 🤖 &nbsp;AI & Emerging Tech
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏆 &nbsp;Achievements & Highlights
+## 🏗️ &nbsp;Featured Projects — Industry Grade
 
 <div align="center">
 
-| 🥇 | **Top 20** in a National Hackathon |
-|:---:|:---|
-| 💼 | **Full-Stack Developer Intern** @ *International Institute of SDGs & Public Policy Research* |
-| ⚡ | Built **AI-based & Full Stack Projects** for research and real-world use |
-| 🧠 | Exploring the intersection of **AI × Modern Web Development** |
-| 🎨 | Passionate about crafting **pixel-perfect, accessible UIs** |
+### 🔥 Project 1 — AI-Powered SaaS Dashboard
+
+</div>
+
+```
+📦 fullstack-ai-dashboard/
+├── 🎨 frontend/          → Next.js 14 + TypeScript + Tailwind CSS
+│   ├── app/              → App Router with Server Components
+│   ├── components/       → Reusable UI component library
+│   └── hooks/            → Custom React hooks (useSWR, useAuth)
+├── ⚙️  backend/           → Node.js + Express.js REST API
+│   ├── controllers/      → Business logic layer
+│   ├── middleware/        → JWT auth, rate limiting, error handling
+│   ├── models/           → Mongoose ODM schemas
+│   └── routes/           → RESTful API endpoints
+├── 🗄️  database/          → MongoDB Atlas (production)
+└── 🚀 deployment/        → Vercel (FE) + Render (BE) + GitHub Actions CI/CD
+```
+
+**Key Engineering Decisions:**
+- 🔐 **JWT + Refresh Token** rotation pattern for secure session management
+- 📊 **MongoDB Aggregation Pipelines** for complex analytics queries
+- ⚡ **React Server Components** to reduce client bundle size by 60%
+- 🌐 **OpenAI API integration** for AI-assisted content generation
+
+---
+
+<div align="center">
+
+### 🛒 Project 2 — E-Commerce Platform (Production Architecture)
+
+</div>
+
+```
+🛒 Key Features Implemented:
+├── 🔐 Multi-role Auth (Admin / Seller / Buyer) with JWT
+├── 💳 Payment Integration (Razorpay / Stripe-ready)
+├── 📦 Order Management with real-time status tracking
+├── 🔍 Search with filters, sorting & pagination
+├── 🖼️  Image upload via Cloudinary CDN
+├── 📧 Email notifications via Nodemailer
+├── 📱 Fully responsive — Mobile-first design
+└── 🚀 Deployed on Vercel + MongoDB Atlas
+```
+
+---
+
+<div align="center">
+
+### 🤖 Project 3 — Real-Time Chat App with AI
+
+</div>
+
+```
+⚡ Tech Stack:
+├── Socket.io          → Real-time bidirectional communication
+├── Node.js + Express  → WebSocket server + REST APIs
+├── MongoDB            → Message persistence + user sessions
+├── React + Zustand    → Lightweight reactive state management
+├── OpenAI API         → AI chatbot integration within rooms
+└── JWT Auth           → Secure room access & user sessions
+```
+
+---
+
+## 📈 &nbsp;GitHub Performance Analytics
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=ajay23407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9d7ec9&icon_color=7c3aed&text_color=c9d1d9&border_radius=16&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay23407&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9d7ec9&fire=c084fc&currStreakLabel=9d7ec9&border_radius=16&stroke=0d0d1a" />
+
+</div>
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay23407&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9d7ec9&text_color=c9d1d9&border_radius=16&langs_count=8" />
 
 </div>
 
 ---
 
-## 🌱 &nbsp;Currently Learning
+## 🏆 &nbsp;Achievements & Industry Experience
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║  Next.js App Router     ████████████░░  85%  ║
-║  Express.js / REST API  ██████████░░░░  75%  ║
-║  TypeScript             ████████░░░░░░  60%  ║
-║  AI / LLM Integration   ██████░░░░░░░░  50%  ║
-║  System Design          ████░░░░░░░░░░  35%  ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  🥇  Top 20 in National Hackathon — Competitive Problem Solving  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  💼  Full-Stack Developer Intern                                 ║
+║      International Institute of SDGs & Public Policy Research    ║
+║      → Built data-driven web portals for policy analysis         ║
+║      → Developed REST APIs consumed by research teams            ║
+║      → Implemented secure auth flows & role-based access control ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🤖  AI Integration Projects                                     ║
+║      → Integrated LLM APIs into production web apps             ║
+║      → Built AI chatbots, smart search & recommendation systems  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📐  Architecture & Best Practices                               ║
+║      → MVC pattern · Clean Code · SOLID principles               ║
+║      → Git branching strategies · PR workflows · Code reviews    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🚀 &nbsp;My Motto
+## 📊 &nbsp;Skills Proficiency
 
 <div align="center">
 
-> *"Write code that not only works but* **inspires**." ✨
+```
+React / Next.js        ██████████████████░░  90%
+Node.js / Express.js   █████████████████░░░  85%
+MongoDB / Mongoose     ████████████████░░░░  80%
+REST API Design        ███████████████████░  95%
+TypeScript             █████████████░░░░░░░  65%
+Git / GitHub / CI-CD   ██████████████████░░  90%
+System Design          ████████████░░░░░░░░  60%
+AI / LLM Integration   ██████████░░░░░░░░░░  50%
+```
 
 </div>
 
 ---
 
-## 🌀 &nbsp;Contribution Galaxy
+## 🎯 &nbsp;What I Bring to Your Team
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+| 💡 Problem Solving | 🤝 Collaboration | 🚀 Delivery |
+|:---:|:---:|:---:|
+| Break down complex features into modular, testable components | Clear Git commit messages, PR descriptions, and code reviews | Ship production-ready features with proper error handling |
+| Optimize API performance with pagination, indexing & caching | Async communication, documentation-first approach | Follow Agile sprints, estimate tasks, meet deadlines |
+| Debug across the full stack — browser to database | Mentor juniors, pair program, share knowledge via docs | Write maintainable code with clear comments and READMEs |
 
 </div>
 
 ---
 
-## ⚡ &nbsp;Fun Fact
+## 🌱 &nbsp;Currently Leveling Up
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=When+I'm+not+coding...+I'm+sketching+anime+characters+🎨;...or+exploring+the+next+big+tech+idea+🤖;...or+caffeinating+and+committing+at+2AM+☕" />
+```javascript
+const roadmap2025 = {
+  Q1: ["Next.js App Router mastery", "tRPC + Zod type safety", "Server Actions"],
+  Q2: ["PostgreSQL + Prisma ORM",    "Docker containerization",  "Redis caching"],
+  Q3: ["System Design patterns",      "Microservices basics",    "AWS fundamentals"],
+  Q4: ["Advanced AI integrations",    "Open source contributions", "Technical writing"],
+
+  neverStop: true,
+};
+```
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+## 🌀 &nbsp;Contribution Activity
 
 <div align="center">
 
-<sub>Made with 💜 by Ajay Yadav · Powered by passion & caffeine</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
+</picture>
 
+</div>
+
+---
+
+## 💬 &nbsp;Engineering Philosophy
+
+<div align="center">
+
+> *"The best code is not the cleverest code — it's the code your team can understand,*
+> *maintain, and build upon at 2AM during an incident."*
+
+<br/>
+
+**I write code that's:**
+`📖 Readable` &nbsp;·&nbsp; `🔁 Reusable` &nbsp;·&nbsp; `🧪 Testable` &nbsp;·&nbsp; `⚡ Performant` &nbsp;·&nbsp; `🔐 Secure`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=9D7EC9&center=true&vCenter=true&width=700&lines=When+not+coding...+sketching+anime+characters+🎨;...diving+into+a+new+tech+rabbit+hole+🐇;...brainstorming+the+next+product+idea+💡;...caffeinating+and+shipping+at+2AM+☕" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0533,100:0a0a1a&height=140&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=9d7ec9&animation=fadeIn&fontAlignY=65" />
+
+<div align="center">
+<sub>⭐ Star my repos if you find them useful &nbsp;·&nbsp; Made with 💜 and countless ☕ by Ajay Yadav</sub>
 </div>
 
 
